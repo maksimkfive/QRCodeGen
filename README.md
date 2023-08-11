@@ -19,10 +19,11 @@ A simple, intuitive, and stylish QR code generator built with PyQt5.
 - PyQt5
 - pyqrcode
 - PIL (from Pillow)
+- pypng
 
 Install all requirements with:
 
-`pip install PyQt5 pyqrcode Pillow`
+`pip install PyQt5 pyqrcode Pillow pypng`
 
 ## Upcoming Features
 
